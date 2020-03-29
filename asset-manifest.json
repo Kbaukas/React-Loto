@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Loto/static/css/main.a6bbaa0d.chunk.css",
+    "main.css": "/React-Loto/static/css/main.7c9ca5d8.chunk.css",
     "main.js": "/React-Loto/static/js/main.22659727.chunk.js",
     "main.js.map": "/React-Loto/static/js/main.22659727.chunk.js.map",
     "runtime-main.js": "/React-Loto/static/js/runtime-main.2b544b3b.js",
@@ -8,16 +8,16 @@
     "static/js/2.f0155fc9.chunk.js": "/React-Loto/static/js/2.f0155fc9.chunk.js",
     "static/js/2.f0155fc9.chunk.js.map": "/React-Loto/static/js/2.f0155fc9.chunk.js.map",
     "index.html": "/React-Loto/index.html",
-    "precache-manifest.624d6703c176dc12ee60b674e34b4400.js": "/React-Loto/precache-manifest.624d6703c176dc12ee60b674e34b4400.js",
+    "precache-manifest.f051d9a6fe08fa10e7f74d0d371bdb86.js": "/React-Loto/precache-manifest.f051d9a6fe08fa10e7f74d0d371bdb86.js",
     "service-worker.js": "/React-Loto/service-worker.js",
-    "static/css/main.a6bbaa0d.chunk.css.map": "/React-Loto/static/css/main.a6bbaa0d.chunk.css.map",
+    "static/css/main.7c9ca5d8.chunk.css.map": "/React-Loto/static/css/main.7c9ca5d8.chunk.css.map",
     "static/js/2.f0155fc9.chunk.js.LICENSE.txt": "/React-Loto/static/js/2.f0155fc9.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/React-Loto/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2b544b3b.js",
     "static/js/2.f0155fc9.chunk.js",
-    "static/css/main.a6bbaa0d.chunk.css",
+    "static/css/main.7c9ca5d8.chunk.css",
     "static/js/main.22659727.chunk.js"
   ]
 }

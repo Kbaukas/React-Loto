@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React-Loto/precache-manifest.624d6703c176dc12ee60b674e34b4400.js"
+  "/React-Loto/precache-manifest.f051d9a6fe08fa10e7f74d0d371bdb86.js"
 );
 
 self.addEventListener('message', (event) => {
