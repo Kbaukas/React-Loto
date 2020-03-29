@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Loto/static/css/main.0e217263.chunk.css",
+    "main.js": "/React-Loto/static/js/main.22659727.chunk.js",
+    "main.js.map": "/React-Loto/static/js/main.22659727.chunk.js.map",
+    "runtime-main.js": "/React-Loto/static/js/runtime-main.2b544b3b.js",
+    "runtime-main.js.map": "/React-Loto/static/js/runtime-main.2b544b3b.js.map",
+    "static/js/2.f0155fc9.chunk.js": "/React-Loto/static/js/2.f0155fc9.chunk.js",
+    "static/js/2.f0155fc9.chunk.js.map": "/React-Loto/static/js/2.f0155fc9.chunk.js.map",
+    "index.html": "/React-Loto/index.html",
+    "precache-manifest.f8e297e83a4423225bb9e9f5c87c40bb.js": "/React-Loto/precache-manifest.f8e297e83a4423225bb9e9f5c87c40bb.js",
+    "service-worker.js": "/React-Loto/service-worker.js",
+    "static/css/main.0e217263.chunk.css.map": "/React-Loto/static/css/main.0e217263.chunk.css.map",
+    "static/js/2.f0155fc9.chunk.js.LICENSE.txt": "/React-Loto/static/js/2.f0155fc9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-Loto/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b544b3b.js",
+    "static/js/2.f0155fc9.chunk.js",
+    "static/css/main.0e217263.chunk.css",
+    "static/js/main.22659727.chunk.js"
+  ]
+}
